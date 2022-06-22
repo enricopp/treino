@@ -1,6 +1,6 @@
-# treino
+# Treino de Layout
 
-A new Flutter project.
+Aplicativo feito para treinar reprodução de Layout.
 
 ## Getting Started
 
